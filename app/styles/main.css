@@ -81,3 +81,7 @@ body {
 .accent {
   color: orange;
 }
+svg ellipse {
+  fill: none;
+  stroke: sandybrown;
+}
